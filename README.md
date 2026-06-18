@@ -1,8 +1,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gnolian-181717?style=flat&logo=github)](https://github.com/Gnolian)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Willian-blue?style=flat&logo=linkedin)](SEU_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-contato-green?style=flat&logo=gmail)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Willian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/willianmarquesdefaria/)
+[![Email](https://img.shields.io/badge/Email-contato-green?style=flat&logo=gmail)](mailto:willianmarquesdefaria@gmail.com)
 
 </div>
 
@@ -22,7 +22,6 @@ I am currently working on academic and personal projects involving backend devel
 - Kubernetes
 - Ansible
 - GitHub Actions / GitLab CI
-- Linux
 - PostgreSQL / MySQL
 - SonarQube
 
@@ -36,5 +35,5 @@ I am currently working on academic and personal projects involving backend devel
 
 ## Contact
 
-- LinkedIn: [Willian](SEU_LINKEDIN_AQUI)
+- LinkedIn: [Willian](https://www.linkedin.com/in/willianmarquesdefaria/)
 - GitHub: [Gnolian](https://github.com/Gnolian)
